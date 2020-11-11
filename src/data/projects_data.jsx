@@ -11,7 +11,7 @@ const data_projects = [
         image: netflixme,
         deployed_url: 'https://dev-netflix.herokuapp.com/',
         github_url: 'https://github.com/gabriel-dev-96/dev-netflix',
-        category: ['django', 'react']
+        category: ['django', 'react.js']
     },
     
     {
