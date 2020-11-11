@@ -35,8 +35,8 @@ const Sidebar = ()=>{
                     <img src={pin} alt="location" className="sidebar__icon mr-3"/>
                     Callao, Callao
                 </div>
-                <div className="sidebar__item">gabriel-dev-96@gmail.com</div>
-                <div className="sidebar__item">785412/987654321</div>
+                <div className="sidebar__item">example-gabriel@gmail.com</div>
+                <div className="sidebar__item">987654321</div>
             </div>
             <div className="sidebar__item sidebar__email" onClick={handleEmailMe}>email me</div>
         </div>
